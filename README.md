@@ -39,33 +39,34 @@ El conjunto de datos consiste en información sobre las compras de barras de cho
 ## Exploración visual de las variables demográficas y gráficos de otros Insights
 
 ### Cantidad de clientes por edad:
-![image](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/37f3c2f6-dc50-4026-9237-399089e8ef56)
+![image](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/57ffaf8b-37da-428d-8335-17b1916f332b)
 
 ### Cantidad de clientes de acuerdo a su rango de ingresos
-![image](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/b306ca35-9363-4bf9-9c8c-cbc77775e941)
+![image](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/e5505d18-2380-4a40-936b-c24207b98a72)
 
 ### Cantidad y porcentaje de clientes por sexo
-![Picture1](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/ff34ce7c-f305-4fbc-9262-f1f929317c7a)
+![image](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/6390d21c-e7c3-486b-b5d4-beb780a7e5d7)
 
 ### Porcentaje y cantidad de clientes por nivel educativo
-![image](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/b14914f6-5e7a-476c-95b4-c1e647113550)
+![image](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/7d7f9c7d-1c00-4bd3-9ad0-fe12b809a8bc)
 
 ### Porcentaje y cantidad de clientes dada su ocupación
-![Picture2](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/72f28865-0f22-4f92-8ede-5d3b07b88012)
+![image](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/f0831c91-190d-4caf-b5a5-94f3d15ef667)
 
 ### Porcentaje y cantidad de clientes dado el tamaño de sus ciudades
-![Picture3](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/2631db63-d3b3-4bbe-bc31-81251a67279a)
+![image](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/c11a8ace-12b6-4dbb-843f-bd7cb9554914)
 
 ### Porcentaje del valor monetario que cada marca da a la empresa
-![image](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/f094908b-592d-458c-9773-c9c7f3dec84d)
+![image](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/19777dba-2145-484a-8f29-d2db4f2c408a)
 
 ### Cantidad de productos vendidos por marca
-![image](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/f1abb913-0a02-4727-a5a3-0764636981cb)
+![image](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/11ba9a2b-b413-4139-a835-78491bf73d0a)
 
 ### Precio promedio por marcas
-![image](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/bfa31fd6-ebf1-4da5-819e-3df35c17df9f)
+![image](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/ba8085fe-17bb-495b-8865-913f44466ceb)
 
 ### Porcentajes de Compras que se hicieron tras: bajar el precio del producto, subir el precio del producto y mantener igual el precio del producto
-![image](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/3df74886-5847-4b02-8a7d-bd59a957e2f5)
+![image](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/b4049b2d-8d35-4cc2-bd90-497661c53b67)
+
 
 
