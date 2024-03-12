@@ -1,6 +1,8 @@
 # Analisis-y-Segmentacion-de-Clientes
 
 ## Descripción del conjunto de datos: 
+Este conjunto de datos fue proporcionado por MiBanco en un taller de puesta en práctica de habilidades en Ciencia de Datos y Análisis de Datos. 
+
 El conjunto de datos consiste en información sobre las compras de barras de chocolate de 500 personas de un área determinada cuando ingresan a una tienda física de "bienes de consumo masivo" en el período de 2 años. Todos los datos se han recopilado a través de las tarjetas de fidelización que utilizan al momento de pagar. Los datos se han procesado previamente y no faltan valores. Además, el volumen del conjunto de datos se ha restringido y anonimizado para proteger la privacidad de los clientes.
 
 ## Descripción de las variables en los datos: 
