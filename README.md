@@ -35,3 +35,10 @@ El conjunto de datos consiste en información sobre las compras de barras de cho
 4.	Se interpretó cada segmento y se le puso un nombre de modo que fue posible identificar características útiles acerca de los clientes en estos 7 segmentos.
 5.	Se obtuvieron otros 4 insights de importancia: Porcentaje del valor monetario que cada marca da a la empresa, Cantidad de productos Vendidos por cada marca; Precio promedio por Marca; y porcentajes de compras que se hicieron tras: bajar el precio del producto, subir el precio del producto, y mantener igual el precio del producto. 
 6.	Se determinó qué segmentos podrían considerarse como “Clientes dormidos”, “Clientes potenciales”, y “Clientes en riesgo”.
+
+## 1. Exploración visual de las variables demográficas:
+
+## Cantidad de clientes por edad:
+![image](https://github.com/DanielAndres1116/An-lisis-y-Segmentaci-n-de-Clientes/assets/43154438/37f3c2f6-dc50-4026-9237-399089e8ef56)
+
+
